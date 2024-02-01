@@ -1,0 +1,1 @@
+{{App\Enums\TicketType::getKey($row->ticket_type)}}

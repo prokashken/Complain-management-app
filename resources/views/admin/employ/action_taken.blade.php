@@ -1,0 +1,1 @@
+<textarea disabled>{{$row->action_taken == null ? '': $row->action_taken}}</textarea>
